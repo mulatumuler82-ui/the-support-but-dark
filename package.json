@@ -1,0 +1,9 @@
+{
+  "name": "mulatu-jaleta-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Root package: installs what the /api serverless functions need on Vercel. The website itself lives in client/.",
+  "dependencies": {
+    "resend": "^6.32.0"
+  }
+}
