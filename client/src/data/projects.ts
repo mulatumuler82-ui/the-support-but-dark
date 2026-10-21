@@ -46,6 +46,6 @@ export const PROJECTS: Project[] = [
       'Supervised machine learning classification pipeline evaluating financial risk metrics using Logistic Regression, Decision Trees, and Random Forests.',
     tags: ['Python', 'Scikit-Learn', 'Classification'],
     // NOTE: this repo name says "mern-portfolio" – double-check it's the right link for this project.
-    repo: 'https://github.com/mulatumuler82-ui/mern-portfolio',
+    repo: 'https://github.com/mulatumuler82-ui/loan-approval-prediction',
   },
 ];
